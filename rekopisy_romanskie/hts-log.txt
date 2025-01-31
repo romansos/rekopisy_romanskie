@@ -1,0 +1,42 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 31 Jan 2025 20:37:09 at https://rekopisy-romanskie.filg.uj.edu.pl/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Pns2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://rekopisy-romanskie.filg.uj.edu.pl/ -O1 "D:\romanskie\rekopisy_romanskie" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:37:53	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/sites/all/themes/micro_zymphonies_theme/images/comment-arrow.gif (from https://rekopisy-romanskie.filg.uj.edu.pl/sites/all/themes/micro_zymphonies_theme/css/style.css?rojsbr)
+20:38:05	Error: 	"Forbidden" (403) at link https://rekopisy-romanskie.filg.uj.edu.pl/73 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts)
+20:38:12	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/877 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts)
+20:39:46	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/7219 (from https://rekopisy-romanskie.filg.uj.edu.pl/editions)
+20:41:53	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/6752%27 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=4)
+20:41:54	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/6753%27 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=4)
+20:42:16	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/Akc. 99_51 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=6)
+20:42:16	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/Akc. 74_52 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=6)
+20:42:16	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/Akc. 212_53 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=6)
+20:42:17	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/Akc. 215_53 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=6)
+20:42:17	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/Akc. 9_54 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=6)
+20:42:18	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/Akc. 12_54 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=6)
+20:42:19	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/Akc. 26_54 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=6)
+20:42:19	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/Akc. 39_54 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=6)
+20:42:20	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/Akc. 80_54 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=6)
+20:42:20	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/Akc. 178_57 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=6)
+20:42:21	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/Akc. 179_57 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=6)
+20:42:21	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/Akc. 235_61 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=6)
+20:42:21	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/Akc. 190_62 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=6)
+20:42:21	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/Akc. 303_83 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=6)
+20:42:21	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/Akc. 86_85 (1) (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=6)
+20:42:22	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/Akc. 86_85 (2) (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=6)
+20:42:22	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/Akc. 138_85 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=6)
+20:42:22	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/Akc. 20_89 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=6)
+20:42:23	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/Akc. 304_93 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=7)
+20:42:23	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/Akc. 337_99 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=7)
+20:42:24	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/Cam. 47 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=7)
+20:42:25	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/Cam. 81 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=7)
+20:42:25	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/Cam. 84 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=7)
+20:42:26	Error: 	"Not Found" (404) at link https://rekopisy-romanskie.filg.uj.edu.pl/Cam. 112 (from https://rekopisy-romanskie.filg.uj.edu.pl/manuscripts?page=7)
+20:42:34	Error: 	"Forbidden" (403) at link https://rekopisy-romanskie.filg.uj.edu.pl/sites/all/modules/tei_imageviewer/img// (from https://rekopisy-romanskie.filg.uj.edu.pl/abrege-chronologique-de-lhistoire-de-pologne)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 41 seconds : 1561 links scanned, 1529 files written (84858998 bytes overall) [61390093 bytes received at 117831 bytes/sec], 30780394 bytes transferred using HTTP compression in 1296 files, ratio 20%, 60.0 requests per connection
+(31 errors, 0 warnings, 0 messages)
